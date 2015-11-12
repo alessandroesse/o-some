@@ -2,7 +2,7 @@
 
 Spinoff of the very previous project ArduinoMagicBall.
 
-More details to www.o-some.tk
+More details on www.o-some.tk
 
 It makes use of IMUduino from FreeIMU.
 
